@@ -1,0 +1,20 @@
+﻿  stdafx.cpp
+  Emulator.cpp
+C:\Users\adinn\Desktop\emulator\Emulator\Emulator.cpp(663,23): warning C4244: '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\adinn\Desktop\emulator\Emulator\Emulator.cpp(735,28): warning C4244: '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\adinn\Desktop\emulator\Emulator\Emulator.cpp(787,28): warning C4244: '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\adinn\Desktop\emulator\Emulator\Emulator.cpp(930,28): warning C4244: '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\adinn\Desktop\emulator\Emulator\Emulator.cpp(934,28): warning C4244: '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\adinn\Desktop\emulator\Emulator\Emulator.cpp(938,28): warning C4244: '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\adinn\Desktop\emulator\Emulator\Emulator.cpp(942,28): warning C4244: '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\adinn\Desktop\emulator\Emulator\Emulator.cpp(1007,28): warning C4244: '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\adinn\Desktop\emulator\Emulator\Emulator.cpp(1008,28): warning C4244: '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\adinn\Desktop\emulator\Emulator\Emulator.cpp(1013,30): warning C4244: '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\adinn\Desktop\emulator\Emulator\Emulator.cpp(1110,30): warning C4244: '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\adinn\Desktop\emulator\Emulator\Emulator.cpp(1138,9): warning C4244: '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\adinn\Desktop\emulator\Emulator\Emulator.cpp(1185,9): warning C4244: '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\adinn\Desktop\emulator\Emulator\Emulator.cpp(601,8): error C2196: case value '72' already used
+C:\Users\adinn\Desktop\emulator\Emulator\Emulator.cpp(1560,19): warning C4244: '=': conversion from '_TCHAR' to 'char', possible loss of data
+C:\Users\adinn\Desktop\emulator\Emulator\Emulator.cpp(1569,20): warning C4244: '=': conversion from '_TCHAR' to 'char', possible loss of data
+C:\Users\adinn\Desktop\emulator\Emulator\Emulator.cpp(1847,32): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\adinn\Desktop\emulator\Emulator\Emulator.cpp(1852,32): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
